@@ -1,12 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure
 {
-    class UniversityEventsContext
+    public class UniversityEventsContext : DbContext
     {
+        public UniversityEventsContext(DbContextOptions<UniversityEventsContext> options) : base(options)
+        {
+            Database.EnsureCreated();
+        }
+
+
+        //public DbSet<User> User { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+
+            base.OnModelCreating(modelBuilder);
+
+           // modelBuilder.ApplyConfiguration(new UserConfiguration());         
+        }
     }
 }
+

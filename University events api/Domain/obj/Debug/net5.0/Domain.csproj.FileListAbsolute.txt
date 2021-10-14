@@ -12,3 +12,4 @@ H:\LNU\Magistr\IT project\university-events-api\University events api\Domain\obj
 H:\LNU\Magistr\IT project\university-events-api\University events api\Domain\obj\Debug\net5.0\ref\Domain.dll
 H:\LNU\Magistr\IT project\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.pdb
 H:\LNU\Magistr\IT project\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+H:\LNU\Magistr\IT project\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
