@@ -78,3 +78,83 @@ H:\LNU\Magistr\IT project\university-events-api\University events api\University
 H:\LNU\Magistr\IT project\university-events-api\University events api\University events api\bin\Debug\net5.0\Domain.pdb
 H:\LNU\Magistr\IT project\university-events-api\University events api\University events api\bin\Debug\net5.0\Infrastructure.pdb
 H:\LNU\Magistr\IT project\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.csproj.AssemblyReference.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\appsettings.Development.json
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\appsettings.json
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\University events api.exe
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\University events api.deps.json
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\University events api.runtimeconfig.json
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\University events api.runtimeconfig.dev.json
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\University events api.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\ref\University events api.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\University events api.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\University events api.Views.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\University events api.Views.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\AutoMapper.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Humanizer.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Application.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Domain.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Infrastructure.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Application.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Domain.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\bin\Debug\net5.0\Infrastructure.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.csproj.AssemblyReference.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.AssemblyInfoInputs.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.AssemblyInfo.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.csproj.CoreCompileInputs.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.MvcApplicationPartsAssemblyInfo.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.RazorAssemblyInfo.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.RazorAssemblyInfo.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\staticwebassets\University events api.StaticWebAssets.Manifest.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\staticwebassets\University events api.StaticWebAssets.xml
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\scopedcss\bundle\University events api.styles.css
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.TagHelpers.input.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.TagHelpers.output.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.RazorCoreGenerate.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.RazorTargetAssemblyInfo.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.RazorTargetAssemblyInfo.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.Views.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.csproj.CopyComplete
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\ref\University events api.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\University events api\obj\Debug\net5.0\University events api.genruntimeconfig.cache

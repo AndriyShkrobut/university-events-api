@@ -18,3 +18,23 @@ H:\LNU\Magistr\IT project\university-events-api\University events api\Applicatio
 H:\LNU\Magistr\IT project\university-events-api\University events api\Application\bin\Debug\net5.0\Infrastructure.pdb
 H:\LNU\Magistr\IT project\university-events-api\University events api\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
 H:\LNU\Magistr\IT project\university-events-api\University events api\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\bin\Debug\net5.0\Application.deps.json
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\bin\Debug\net5.0\Application.runtimeconfig.json
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\bin\Debug\net5.0\Application.runtimeconfig.dev.json
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\bin\Debug\net5.0\Application.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\bin\Debug\net5.0\ref\Application.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\bin\Debug\net5.0\Application.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\bin\Debug\net5.0\Domain.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\bin\Debug\net5.0\Infrastructure.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\bin\Debug\net5.0\Domain.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\bin\Debug\net5.0\Infrastructure.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\obj\Debug\net5.0\Application.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\obj\Debug\net5.0\ref\Application.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\obj\Debug\net5.0\Application.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\Application\obj\Debug\net5.0\Application.genruntimeconfig.cache

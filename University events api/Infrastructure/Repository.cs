@@ -11,60 +11,60 @@ namespace Infrastructure
 {
     public class Repository<TEntity> : IDisposable, IRepository<TEntity> where TEntity : class, IEntity
     {
-        protected readonly UniversityEventsContext Context;
-        protected DbSet<TEntity> Entities;
+        protected readonly UniversityEventsContext _context;
+        protected DbSet<TEntity> _entities;
 
         public Repository(UniversityEventsContext context)
         {
-            Context = context;
-            Entities = context.Set<TEntity>();
+            _context = context;
+            _entities = context.Set<TEntity>();
         }
         public virtual IQueryable<TEntity> GetAll()
         {
-            return Entities.AsQueryable();
+            return _entities.AsQueryable();
         }
         public virtual async Task<TEntity> FindByIdAsync(params object[] keys)
         {
-            return await Entities.FindAsync(keys);
+            return await _entities.FindAsync(keys);
         }
         public virtual async Task<TEntity> FindByCondition(Expression<Func<TEntity, bool>> predicate)
         {
 
-            return await Entities.FirstOrDefaultAsync(predicate);
+            return await _entities.FirstOrDefaultAsync(predicate);
         }
         public virtual void Add(TEntity entity)
         {
-            Entities.Add(entity);
+            _entities.Add(entity);
         }
         public virtual void AddRange(IEnumerable<TEntity> entity)
         {
-            Entities.AddRange(entity);
+            _entities.AddRange(entity);
         }
         public virtual void Remove(TEntity entity)
         {
-            Entities.Remove(entity);
+            _entities.Remove(entity);
         }
         public virtual void RemoveRange(IEnumerable<TEntity> entity)
         {
-            Entities.RemoveRange(entity);
+            _entities.RemoveRange(entity);
         }
         public virtual void Update(TEntity entity)
         {
-            Entities.Update(entity);
+            _entities.Update(entity);
         }
         public virtual async Task Update(TEntity entity, IEnumerable<string> fieldMasks)
         {
-            var entry = Context.Entry(entity);
+            var entry = _context.Entry(entity);
             var collectionList = new List<CollectionEntry>();
-            var oldEntity = await Entities.FindAsync(entry.Property("Id").CurrentValue);
-            var oldEntry = Context.Entry(oldEntity);
+            var oldEntity = await _entities.FindAsync(entry.Property("Id").CurrentValue);
+            var oldEntry = _context.Entry(oldEntity);
 
             var collectionFieldMasks = fieldMasks.Where(name => entry.Collections.Any(a => a.Metadata.Name == name));
             var propertyFieldMasks = fieldMasks.Where(name => entry.Properties.Any(a => a.Metadata.Name == name));
 
             foreach (var name in collectionFieldMasks)
             {
-                var oldCollection = Context.Entry(oldEntity).Collection(name);
+                var oldCollection = _context.Entry(oldEntity).Collection(name);
                 await oldCollection.LoadAsync();
                 collectionList.Add(oldCollection);
             }
@@ -78,7 +78,7 @@ namespace Infrastructure
             {
                 foreach (var item in collection.CurrentValue)
                 {
-                    var newEntry = Context.Entry(item);
+                    var newEntry = _context.Entry(item);
                     newEntry.State = EntityState.Deleted;
                 }
             }
@@ -88,7 +88,7 @@ namespace Infrastructure
                 var newCollection = entry.Collections.Single(a => a.Metadata.Name == name);
                 foreach (var item in newCollection.CurrentValue)
                 {
-                    var newEntry = Context.Entry(item);
+                    var newEntry = _context.Entry(item);
                     newEntry.State = EntityState.Added;
                 }
             }
@@ -101,7 +101,7 @@ namespace Infrastructure
 
         public async Task<int> SaveChangesAsync()
         {
-            return await Context.SaveChangesAsync();
+            return await _context.SaveChangesAsync();
         }
 
         #region IDisposable Support
@@ -113,9 +113,9 @@ namespace Infrastructure
             {
                 if (disposing)
                 {
-                    Entities = null;
+                    _entities = null;
                 }
-                Context?.Dispose();
+                _context?.Dispose();
                 _disposedValue = true;
             }
         }
