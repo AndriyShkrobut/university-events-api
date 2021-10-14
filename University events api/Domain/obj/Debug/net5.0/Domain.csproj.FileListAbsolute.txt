@@ -13,3 +13,18 @@ H:\LNU\Magistr\IT project\university-events-api\University events api\Domain\obj
 H:\LNU\Magistr\IT project\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.pdb
 H:\LNU\Magistr\IT project\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
 H:\LNU\Magistr\IT project\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\bin\Debug\net5.0\Domain.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\bin\Debug\net5.0\Domain.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.pdb
+D:\University\9_semestr\ItProject\university-events-api\University events api\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
