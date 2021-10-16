@@ -5929,25 +5929,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Іван\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\roman\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\University\\9_semestr\\ItProject\\university-events-api\\University events api\\University events api\\University events api.csproj",
+      "projectUniqueName": "H:\\LNU\\Magistr\\IT project\\university-events-api\\University events api\\University events api\\University events api.csproj",
       "projectName": "University events api",
-      "projectPath": "D:\\University\\9_semestr\\ItProject\\university-events-api\\University events api\\University events api\\University events api.csproj",
-      "packagesPath": "C:\\Users\\Іван\\.nuget\\packages\\",
-      "outputPath": "D:\\University\\9_semestr\\ItProject\\university-events-api\\University events api\\University events api\\obj\\",
+      "projectPath": "H:\\LNU\\Magistr\\IT project\\university-events-api\\University events api\\University events api\\University events api.csproj",
+      "packagesPath": "C:\\Users\\roman\\.nuget\\packages\\",
+      "outputPath": "H:\\LNU\\Magistr\\IT project\\university-events-api\\University events api\\University events api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Іван\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\roman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -5962,14 +5963,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\University\\9_semestr\\ItProject\\university-events-api\\University events api\\Application\\Application.csproj": {
-              "projectPath": "D:\\University\\9_semestr\\ItProject\\university-events-api\\University events api\\Application\\Application.csproj"
+            "H:\\LNU\\Magistr\\IT project\\university-events-api\\University events api\\Application\\Application.csproj": {
+              "projectPath": "H:\\LNU\\Magistr\\IT project\\university-events-api\\University events api\\Application\\Application.csproj"
             },
-            "D:\\University\\9_semestr\\ItProject\\university-events-api\\University events api\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\University\\9_semestr\\ItProject\\university-events-api\\University events api\\Domain\\Domain.csproj"
+            "H:\\LNU\\Magistr\\IT project\\university-events-api\\University events api\\Domain\\Domain.csproj": {
+              "projectPath": "H:\\LNU\\Magistr\\IT project\\university-events-api\\University events api\\Domain\\Domain.csproj"
             },
-            "D:\\University\\9_semestr\\ItProject\\university-events-api\\University events api\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\University\\9_semestr\\ItProject\\university-events-api\\University events api\\Infrastructure\\Infrastructure.csproj"
+            "H:\\LNU\\Magistr\\IT project\\university-events-api\\University events api\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "H:\\LNU\\Magistr\\IT project\\university-events-api\\University events api\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -6021,7 +6022,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
